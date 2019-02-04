@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+   cout<<"hi our class project\n";
+   return 0;
+  }
